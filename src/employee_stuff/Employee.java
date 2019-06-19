@@ -76,6 +76,10 @@ public class Employee {
 			throw new IllegalArgumentException("new salary below minimum");
 		}
 	}
+	
+	public static float getMinSalary() {
+		return MIN_SALARY;
+	}
 
 	public float calcPay() {
 		return getSalary() / 12;
