@@ -1,9 +1,9 @@
-language:java
-jdk:openjdk11
+language: java
+jdk: openjdk11
 cache:
   directories: $HOME/.m2
 notifications:
   email:
-    recipients:m_templeton@hotmail.co.uk
-    on_failure:always
-    on_success:never
+    recipients: m_templeton@hotmail.co.uk
+    on_failure: always
+    on_success: never
