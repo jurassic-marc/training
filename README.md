@@ -4,6 +4,14 @@ This project is a small, simple vehicle to explore Git with GitHub and Travis fo
 
 > *Note:* This project was completed on 16/08/2019
 
+```
+<pre>
+entry_dir 
+├── file.csv       # properties for <b>all</b> in dir/ 
+└── dir/
+</pre>
+```
+
 ## How to use this project
 
 Instructions are in the booklet. In short:
