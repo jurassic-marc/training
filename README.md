@@ -2,6 +2,8 @@
 
 This project is a small, simple vehicle to explore Git with GitHub and Travis for the Engineering Academy induction.
 
+> *Note:* This project was completed on 16/08/2019
+
 ## How to use this project
 
 Instructions are in the booklet. In short:
